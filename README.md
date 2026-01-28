@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zomb42. I'm a sophmore currently studying computer science. I'm incredibly interested in learning more about software engineering and machine learning and how such skills could overlap with different fields like mathematics and finance. Feel free to reach out!
+- 👋 Hi, I’m @Zomb42. I'm a junior currently studying computer science. I'm incredibly interested in learning more about software engineering and machine learning and how such skills could overlap with different fields like mathematics and finance. Feel free to reach out!
 - LinkedIn: https://www.linkedin.com/in/derick-shi-real/
 - LeetCode: https://leetcode.com/u/Zomb42/
 
